@@ -1,2 +1,32 @@
-# creditpoint
-The credit point is suitable for every citizen and every organization . 信用点适用于任何公民和企业组织
+The credit point is suitable for every citizen and every organization . 
+信用点适用于任何公民和企业组织
+
+未来是信任体系的社会,快速接入,透明,多重等级的信任体系有助于新桃源的高效率发展,我们在给我们负责范围内的企业及个人进行信用评级
+我们会给企业在环保、效率、扶持、信用、潜力、组织需求等各个维度进行综合评分。
+
+每月向 1CGRgj6888Vv3WHZQxiUttmpfcJ5EzDGSs 发送 100mBTC , 为申请更新信用记录分, 向 greenlandapply@gmail.com 提交申请材料
+申请完成时,会返回 0.1~10.0 mBTC ,可在比特币网络查询与公证,评分系统永远只认可最新的评分.
+
+每月信用分如未及时更新,会降低 0.9 倍,n个月后 降为 0.9^n 分(n次方).
+
+向 greenlandapply@gmail.com 发送如下指令可查看当前的信用记录：
+
+
+1、当前所有企业信用记录：
+   发送标题为： 企业信用
+   搜索特定的企业组织 请发送标题为： 企业信用 XXXXXXXX（XXX为需要搜索的词）
+
+2、当前所有个人信用记录：
+   发送标题为： 个人信用
+   搜索特定的企业组织 请发送标题为： 个人信用 XXXXXXXX
+
+3、当前所有不良信用记录：
+   发送标题为： 不良信用
+   搜索特定的词 请发送标题为： 不良信用 XXXXXXXX
+
+4、新桃源组织联系方式
+   发送标题为： 联系方式
+   搜索特定的词 请发送标题为： 联系方式 XXXXXXXX
+
+最新安全联系方式：
+黑莓 BBM APP pin：55C1027F
